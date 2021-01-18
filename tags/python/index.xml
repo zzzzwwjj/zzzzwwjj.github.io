@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/python/</link>
+    <description>Recent content in Python on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 16 Jan 2021 14:11:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>803. 打砖块</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/803.-%E6%89%93%E7%A0%96%E5%9D%97/</link>
+      <pubDate>Sat, 16 Jan 2021 14:11:51 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/803.-%E6%89%93%E7%A0%96%E5%9D%97/</guid>
+      <description>逆向思维的并查集（？）使用</description>
+    </item>
+    
+  </channel>
+</rss>

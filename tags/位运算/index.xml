@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>位运算 on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/</link>
+    <description>Recent content in 位运算 on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 Jan 2021 03:01:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>342. 4的幂</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/342.-4%E7%9A%84%E5%B9%82/</link>
+      <pubDate>Sun, 17 Jan 2021 03:01:25 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/342.-4%E7%9A%84%E5%B9%82/</guid>
+      <description>感觉我这辈子都想不起来用位运算解题了</description>
+    </item>
+    
+    <item>
+      <title>1104. 二叉树寻路</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1104.-%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AF%BB%E8%B7%AF/</link>
+      <pubDate>Fri, 08 Jan 2021 18:54:15 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1104.-%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AF%BB%E8%B7%AF/</guid>
+      <description>菜鸡在找规律，大佬们在位运算</description>
+    </item>
+    
+  </channel>
+</rss>

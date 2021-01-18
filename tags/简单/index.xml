@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>简单 on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/%E7%AE%80%E5%8D%95/</link>
+    <description>Recent content in 简单 on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 Jan 2021 03:01:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/%E7%AE%80%E5%8D%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>342. 4的幂</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/342.-4%E7%9A%84%E5%B9%82/</link>
+      <pubDate>Sun, 17 Jan 2021 03:01:25 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/342.-4%E7%9A%84%E5%B9%82/</guid>
+      <description>感觉我这辈子都想不起来用位运算解题了</description>
+    </item>
+    
+    <item>
+      <title>107. 二叉树的层序遍历 II</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/107.-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86-ii/</link>
+      <pubDate>Sun, 17 Jan 2021 02:37:36 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/107.-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86-ii/</guid>
+      <description>没啥好讲的</description>
+    </item>
+    
+    <item>
+      <title>1640. 能否连接形成数组</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1640.-%E8%83%BD%E5%90%A6%E8%BF%9E%E6%8E%A5%E5%BD%A2%E6%88%90%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Sat, 16 Jan 2021 23:45:02 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1640.-%E8%83%BD%E5%90%A6%E8%BF%9E%E6%8E%A5%E5%BD%A2%E6%88%90%E6%95%B0%E7%BB%84/</guid>
+      <description>简单的哈希应用</description>
+    </item>
+    
+    <item>
+      <title>228. 汇总区间</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/228.-%E6%B1%87%E6%80%BB%E5%8C%BA%E9%97%B4/</link>
+      <pubDate>Sun, 10 Jan 2021 09:20:14 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/228.-%E6%B1%87%E6%80%BB%E5%8C%BA%E9%97%B4/</guid>
+      <description>简单题也能学到新东西</description>
+    </item>
+    
+    <item>
+      <title>243. 最短单词距离</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/243.-%E6%9C%80%E7%9F%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB/</link>
+      <pubDate>Fri, 08 Jan 2021 16:43:51 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/243.-%E6%9C%80%E7%9F%AD%E5%8D%95%E8%AF%8D%E8%B7%9D%E7%A6%BB/</guid>
+      <description>没啥好讲的</description>
+    </item>
+    
+    <item>
+      <title>830. 较大分组的位置</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/830.-%E8%BE%83%E5%A4%A7%E5%88%86%E7%BB%84%E7%9A%84%E4%BD%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 05 Jan 2021 14:21:08 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/830.-%E8%BE%83%E5%A4%A7%E5%88%86%E7%BB%84%E7%9A%84%E4%BD%8D%E7%BD%AE/</guid>
+      <description>没啥好讲的</description>
+    </item>
+    
+    <item>
+      <title>509. 斐波那契数</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/509.-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0/</link>
+      <pubDate>Mon, 04 Jan 2021 11:59:48 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/509.-%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0/</guid>
+      <description>没啥好讲的</description>
+    </item>
+    
+  </channel>
+</rss>

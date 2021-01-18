@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>贪心 on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/%E8%B4%AA%E5%BF%83/</link>
+    <description>Recent content in 贪心 on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 09 Jan 2021 20:11:45 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/%E8%B4%AA%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>123. 买卖股票的最佳时机 III</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/123.-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA-iii/</link>
+      <pubDate>Sat, 09 Jan 2021 20:11:45 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/123.-%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA-iii/</guid>
+      <description>我太菜了，题解很巧妙</description>
+    </item>
+    
+    <item>
+      <title>1546. 和为目标值的最大数目不重叠非空子数组数目</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1546.-%E5%92%8C%E4%B8%BA%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE%E4%B8%8D%E9%87%8D%E5%8F%A0%E9%9D%9E%E7%A9%BA%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE/</link>
+      <pubDate>Fri, 08 Jan 2021 13:33:06 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1546.-%E5%92%8C%E4%B8%BA%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE%E4%B8%8D%E9%87%8D%E5%8F%A0%E9%9D%9E%E7%A9%BA%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE/</guid>
+      <description>被题目坑了</description>
+    </item>
+    
+    <item>
+      <title>330. 按要求补齐数组</title>
+      <link>https://zzzzwwjj.github.io/post/2020-12/330.-%E6%8C%89%E8%A6%81%E6%B1%82%E8%A1%A5%E9%BD%90%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Thu, 31 Dec 2020 03:07:58 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2020-12/330.-%E6%8C%89%E8%A6%81%E6%B1%82%E8%A1%A5%E9%BD%90%E6%95%B0%E7%BB%84/</guid>
+      <description>简单的贪心问题</description>
+    </item>
+    
+  </channel>
+</rss>

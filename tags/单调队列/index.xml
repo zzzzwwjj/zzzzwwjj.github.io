@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>单调队列 on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/</link>
+    <description>Recent content in 单调队列 on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 Jan 2021 14:41:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/%E5%8D%95%E8%B0%83%E9%98%9F%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>581. 最短无序连续子数组</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/581.-%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Mon, 04 Jan 2021 14:41:41 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/581.-%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84/</guid>
+      <description>一天两道单调队列，不过没想到可以改进</description>
+    </item>
+    
+    <item>
+      <title>239. 滑动窗口最大值</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/239.-%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC/</link>
+      <pubDate>Sat, 02 Jan 2021 10:46:19 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/239.-%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC/</guid>
+      <description>数据结构学艺不精没做出来。。。</description>
+    </item>
+    
+  </channel>
+</rss>

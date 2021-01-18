@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中等 on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/%E4%B8%AD%E7%AD%89/</link>
+    <description>Recent content in 中等 on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 Jan 2021 02:05:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/%E4%B8%AD%E7%AD%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1754. 剑指 Offer 04. 二维数组中的查找</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1754.-%E5%89%91%E6%8C%87-offer-04.-%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
+      <pubDate>Sun, 17 Jan 2021 02:05:08 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1754.-%E5%89%91%E6%8C%87-offer-04.-%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
+      <description>优化出魔怔了</description>
+    </item>
+    
+    <item>
+      <title>947. 移除最多的同行或同列石头</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/947.-%E7%A7%BB%E9%99%A4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%90%8C%E8%A1%8C%E6%88%96%E5%90%8C%E5%88%97%E7%9F%B3%E5%A4%B4/</link>
+      <pubDate>Sat, 16 Jan 2021 02:56:01 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/947.-%E7%A7%BB%E9%99%A4%E6%9C%80%E5%A4%9A%E7%9A%84%E5%90%8C%E8%A1%8C%E6%88%96%E5%90%8C%E5%88%97%E7%9F%B3%E5%A4%B4/</guid>
+      <description>当连通分量是有序数对时，并查集的使用</description>
+    </item>
+    
+    <item>
+      <title>684. 冗余连接</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/684.-%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5/</link>
+      <pubDate>Fri, 15 Jan 2021 17:15:11 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/684.-%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5/</guid>
+      <description>时隔多年再次接触并查集233</description>
+    </item>
+    
+    <item>
+      <title>1401. 圆和矩形是否有重叠</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1401.-%E5%9C%86%E5%92%8C%E7%9F%A9%E5%BD%A2%E6%98%AF%E5%90%A6%E6%9C%89%E9%87%8D%E5%8F%A0/</link>
+      <pubDate>Sun, 10 Jan 2021 08:45:11 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1401.-%E5%9C%86%E5%92%8C%E7%9F%A9%E5%BD%A2%E6%98%AF%E5%90%A6%E6%9C%89%E9%87%8D%E5%8F%A0/</guid>
+      <description>这弔题能写我一个小时，充分证明了我是傻逼</description>
+    </item>
+    
+    <item>
+      <title>1104. 二叉树寻路</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1104.-%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AF%BB%E8%B7%AF/</link>
+      <pubDate>Fri, 08 Jan 2021 18:54:15 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1104.-%E4%BA%8C%E5%8F%89%E6%A0%91%E5%AF%BB%E8%B7%AF/</guid>
+      <description>菜鸡在找规律，大佬们在位运算</description>
+    </item>
+    
+    <item>
+      <title>189. 旋转数组</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/189.-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Fri, 08 Jan 2021 14:39:56 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/189.-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84/</guid>
+      <description>翻转数组的解法有点巧妙</description>
+    </item>
+    
+    <item>
+      <title>1546. 和为目标值的最大数目不重叠非空子数组数目</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1546.-%E5%92%8C%E4%B8%BA%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE%E4%B8%8D%E9%87%8D%E5%8F%A0%E9%9D%9E%E7%A9%BA%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE/</link>
+      <pubDate>Fri, 08 Jan 2021 13:33:06 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1546.-%E5%92%8C%E4%B8%BA%E7%9B%AE%E6%A0%87%E5%80%BC%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0%E7%9B%AE%E4%B8%8D%E9%87%8D%E5%8F%A0%E9%9D%9E%E7%A9%BA%E5%AD%90%E6%95%B0%E7%BB%84%E6%95%B0%E7%9B%AE/</guid>
+      <description>被题目坑了</description>
+    </item>
+    
+    <item>
+      <title>581. 最短无序连续子数组</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/581.-%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Mon, 04 Jan 2021 14:41:41 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/581.-%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84/</guid>
+      <description>一天两道单调队列，不过没想到可以改进</description>
+    </item>
+    
+  </channel>
+</rss>
