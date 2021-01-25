@@ -6,10 +6,46 @@
     <description>Recent content in 简单 on zzzzwwjj的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 17 Jan 2021 03:01:25 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 11:56:16 +0800</lastBuildDate>
     
 	<atom:link href="https://zzzzwwjj.github.io/tags/%E7%AE%80%E5%8D%95/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>674. 最长连续递增序列</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/674.-%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97/</link>
+      <pubDate>Sun, 24 Jan 2021 11:56:16 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/674.-%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97/</guid>
+      <description>简单题我重拳出击</description>
+    </item>
+    
+    <item>
+      <title>989. 数组形式的整数加法</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/989.-%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95/</link>
+      <pubDate>Fri, 22 Jan 2021 01:43:13 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/989.-%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95/</guid>
+      <description>注意一下细节就行</description>
+    </item>
+    
+    <item>
+      <title>628. 三个数的最大乘积</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/628.-%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF/</link>
+      <pubDate>Wed, 20 Jan 2021 22:19:33 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/628.-%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF/</guid>
+      <description>排序你就输了</description>
+    </item>
+    
+    <item>
+      <title>766. 托普利茨矩阵</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/766.-%E6%89%98%E6%99%AE%E5%88%A9%E8%8C%A8%E7%9F%A9%E9%98%B5/</link>
+      <pubDate>Mon, 18 Jan 2021 13:05:22 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/766.-%E6%89%98%E6%99%AE%E5%88%A9%E8%8C%A8%E7%9F%A9%E9%98%B5/</guid>
+      <description>写不出来建议转行</description>
+    </item>
     
     <item>
       <title>342. 4的幂</title>
