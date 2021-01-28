@@ -6,10 +6,19 @@
     <description>Recent content in 排序 on zzzzwwjj的小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 21 Jan 2021 18:16:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 19:39:10 +0800</lastBuildDate>
     
 	<atom:link href="https://zzzzwwjj.github.io/tags/%E6%8E%92%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1296. 划分数组为连续数字的集合</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1296.-%E5%88%92%E5%88%86%E6%95%B0%E7%BB%84%E4%B8%BA%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%AD%97%E7%9A%84%E9%9B%86%E5%90%88/</link>
+      <pubDate>Mon, 25 Jan 2021 19:39:10 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1296.-%E5%88%92%E5%88%86%E6%95%B0%E7%BB%84%E4%B8%BA%E8%BF%9E%E7%BB%AD%E6%95%B0%E5%AD%97%E7%9A%84%E9%9B%86%E5%90%88/</guid>
+      <description>挺有意思的一道题</description>
+    </item>
     
     <item>
       <title>215. 数组中的第K个最大元素</title>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>优先搜索 on zzzzwwjj的小站</title>
+    <link>https://zzzzwwjj.github.io/tags/%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/</link>
+    <description>Recent content in 优先搜索 on zzzzwwjj的小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 28 Jan 2021 21:51:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzzzwwjj.github.io/tags/%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1345. 跳跃游戏 IV</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1345.-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-iv/</link>
+      <pubDate>Thu, 28 Jan 2021 21:51:10 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1345.-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-iv/</guid>
+      <description>这道题开始就有难度了</description>
+    </item>
+    
+    <item>
+      <title>1306. 跳跃游戏 III</title>
+      <link>https://zzzzwwjj.github.io/post/2021-01/1306.-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-iii/</link>
+      <pubDate>Thu, 28 Jan 2021 17:44:57 +0800</pubDate>
+      
+      <guid>https://zzzzwwjj.github.io/post/2021-01/1306.-%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F-iii/</guid>
+      <description>这道跟前两道没啥关系啊感觉</description>
+    </item>
+    
+  </channel>
+</rss>
